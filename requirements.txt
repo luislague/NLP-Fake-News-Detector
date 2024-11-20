@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+tensorflow
+nltk
+seaborn
+jupyter
+textblob
+spacy
+Unidecode
+xgboost
+plotly
